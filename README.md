@@ -13,6 +13,8 @@ Gunakan sewajarnya sedikit bumbu prem:v
 
 #pip2 install mechanize
 
+#pip2 install bs4
+
 #pkg install python2
 
 #git clone https://github.com/fantastic1000/crack-indo
