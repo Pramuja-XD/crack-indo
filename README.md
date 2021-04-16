@@ -17,7 +17,7 @@ Gunakan sewajarnya sedikit bumbu prem:v
 
 #pkg install python2
 
-#git clone https://github.com/fantastic1000/crack-indo
+#git clone https://github.com/Pramuja-XD/crack-indo
 
 #cd crack-indo
 
